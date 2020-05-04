@@ -1,0 +1,10 @@
+# HELLO
+hello neww world
+
+
+<>git clone git@~~    ; 복사하기 
+<>git diff            ; 차이점 보여주기
+<>git add ex02.txt    ; ex02.txt 올리기
+<>git push            ; 전체 업데이트
+
+
