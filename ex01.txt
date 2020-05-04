@@ -1,10 +1,26 @@
 # HELLO
 hello neww world
 
-
-<>git clone git@~~    ; 복사하기 
-<>git diff            ; 차이점 보여주기
-<>git add ex02.txt    ; ex02.txt 올리기
-<>git push            ; 전체 업데이트
+;define; GIT; GIT를 통해 공유 관리 업앤다운로드 버전관리 가능
 
 
+;ref; https://seomal.org/?i=GITHUB
+
+/*명령어 모음 시작
+git clone git@~~    ; 복사하기 
+git diff            ; 차이점 보여주기
+git add ex02.txt    ; ex02.txt 새롭게 올릴거야
++
+git commit -m "ex02"; 02를 제출
+git push            ; 전체 업데이트
+
+git status          ; 현재상태보여줘
+
+명령어 모음 끝*/
+
+; 멤버초대는 "invite a collabrator"를 활용 >초대 메일
+; "issues"탭은 게시판, 버그 등/ 담당자 지정가능/ 라벨 (ex, facebook, git의 git)
+; "wiki"탭으로 지식에 정리 가능
+; "insights" 종합 ("fork"란 그대로 복제하는 기능)
+; "pull request" 제안기능
+; "Actions" 특정 기능 수행 시, 추가 기능 자동 활성 (ex, push시 문자발송, 검사 등)
